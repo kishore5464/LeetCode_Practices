@@ -3,7 +3,7 @@ package com.kishore.string;
 public class Balanced_String {
 
 	public static void main(String[] args) {
-		balanceString("RLRRLLRLRLRRLLRL");
+		balanceString("RLRRLLRLRL");
 	}
 
 	public static void balanceString(String s) {
